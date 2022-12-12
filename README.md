@@ -8,10 +8,13 @@
   <a href="mailto:carlosevecina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+
+    
+  <b>Senior Data Scientist</b> @ Jobandtalent
+        
   <br>
-  Senior Data Scientist at Jobandtalent
-  <br>
-  💻 Hanging out at <a href="www.typethepipe.com">TypeThePipe.com</a>  &nbsp  | <nobr> &nbsp   🌱 <a href="www.autarponics.com">Growing home vegetable kits</a> at AutarPonics.com  </nobr>
+ <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>  &nbsp  |  &nbsp   🌱 <a href="https://www.autarponics.com">Growing home vegetable kits</a> at AutarPonics.com  </nobr>
+    
 </div>  
 
 </div>
