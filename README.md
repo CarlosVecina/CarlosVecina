@@ -13,7 +13,7 @@
   <b>Senior Data Scientist</b> @ Jobandtalent
         
   <br>
- <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>  &nbsp  |  &nbsp   🌱 <a href="https://www.autarponics.com">Growing home vegetable kits</a> at AutarPonics.com  </nobr>
+ <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>  &nbsp
     
 </div>  
 
