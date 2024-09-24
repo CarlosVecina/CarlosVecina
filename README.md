@@ -10,42 +10,41 @@
   </a>
 
     
-  <b>Senior Data Scientist</b> | Building AI agentic workflows
+  <b>Senior Data Scientist</b> | Crafting AI agentic workflows
         
   <br>
  <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>  &nbsp
    
  <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>
-    
-    
+     
 </div>  
 
 </div>
 
+<br>
 
-<!--
-**CarlosVecina/CarlosVecina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!--https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md?plain=1-->
+<h3>Open side-projects</h3>
+ <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <!--<td><b>📚 Forks</b></td>-->
+      <td><b>🛎 Issues</b></td>
+      <!--<td><b>📬 Pull requests</b></td>-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/CarlosVecina/easy_bookmarks"><b> EasyBookmarks - Newsletters & Podcasts from your centralized bookmarks</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/easy_bookmarks?style=flat-square&labelColor=343b41"/></td>
+      <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/easy_bookmarks?style=flat-square&labelColor=343b41"/></td>
+      <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
+    </tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosVecina&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  <a href="https://twitter.com/dataChals">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-https://github-readme-streak-stats.herokuapp.com/?user=CarlosVecina
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVecina)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
--->
+  </tbody>
+</table>
