@@ -10,10 +10,13 @@
   </a>
 
     
-  <b>Senior Data Scientist</b> @ Jobandtalent
+  <b>Senior Data Scientist</b> building
         
   <br>
- <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>  &nbsp
+ <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>  &nbsp
+   
+ <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>
+    
     
 </div>  
 
