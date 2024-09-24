@@ -10,7 +10,7 @@
   </a>
 
     
-  <b>Senior Data Scientist</b> building
+  <b>Senior Data Scientist</b> | Building AI agentic workflows
         
   <br>
  <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>  &nbsp
