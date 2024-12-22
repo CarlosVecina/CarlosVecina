@@ -10,12 +10,15 @@
   </a>
 
     
-  <b>Senior Data Scientist</b> | Crafting AI agentic workflows
+  <b>Senior Data Scientist</b> | Crafting trustworthy AI agentic workflows
         
   <br>
- <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>  &nbsp
+
+ <nobr> 🟢 Trustworthy AI-core companies <a href="https://www.contrastoai.com">ContrastoAI</a>
+
+ <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>
    
- <nobr> 💻 Hanging out at <a href="https://www.typethepipe.com">TypeThePipe.com</a>
+ <nobr> 💻 Hanging out at TypeThePipe.com
      
 </div>  
 
