@@ -56,7 +56,7 @@
       <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
     </tr>
     <tr>
-      <td><a href="https://github.com/CarlosVecina/easy_bookmarks"><b> AI Fund - <i>Dystopic investments 📈 managed by AI agents 🤖</i></b></a></td>
+      <td><a href="https://github.com/CarlosVecina/Dystopic_Investment_AIgents"><b> AI Fund - <i>Dystopic investments 📈 managed by AI agents 🤖</i></b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/Dystopic_Investment_AIgents?style=flat-square&labelColor=343b41"/></td>
       <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
       <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/Dystopic_Investment_AIgents?style=flat-square&labelColor=343b41"/></td>
