@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>AI API testing - 🐦<i>AI test generator for APIs and agentic workflows</i></b></a></td>
+      <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>GenTest4AI - 🐦<i>GenAI synthetic scenario testing for ML models and Agentic workflows</i></b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
       <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
       <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
