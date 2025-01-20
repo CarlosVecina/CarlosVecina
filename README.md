@@ -15,8 +15,6 @@
   <br>
 
  <nobr> 🟢 Trustworthy AI-core companies <a href="https://www.contrastoai.com">ContrastoAI</a>
-
- <nobr> 🦄 Building <a href="https://www.solounicorns.com">SoloUnicornsAI</a>
    
  <nobr> 💻 Hanging out at TypeThePipe.com
      
