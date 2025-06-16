@@ -23,10 +23,10 @@
  <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>Cartai:</a> the OSS <b>AI Agent supervisor 🤖 for the ML/AI lifecycle.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/contrastoai/cartai?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/contrastoai/cartai"><b>Cartai:</a> the OSS <b>AI Agent supervisor 🤖 for the ML/AI lifecycle.</b></a></td>
+      <td><a href="https://github.com/contrastoai/cartai"><img alt="Stars" src="https://img.shields.io/github/stars/contrastoai/cartai?style=flat-square&labelColor=343b41"/></a></td>
       <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/contrastoai/cartai?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/contrastoai/cartai"><img alt="Issues" src="https://img.shields.io/github/issues/contrastoai/cartai?style=flat-square&labelColor=343b41"/></a></td>
       <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
     </tr>
   </tbody>
