@@ -10,14 +10,28 @@
   </a>
 
     
-  <b>Senior Data Scientist</b> | Crafting trustworthy AI agentic workflows
+  Senior Data Scientist & MLOps
+  
+  🟢 AI Compliance @ <a href="https://www.contrastoai.com">ContrastoAI</a>
         
   <br>
 
- <nobr> 🟢 Trustworthy AI-core companies <a href="https://www.contrastoai.com">ContrastoAI</a>
+ <nobr> 
    
- <nobr> 💻 Hanging out at TypeThePipe.com
-     
+ <nobr> 💻 Building:
+
+ <table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>Cartai:</a> the OSS <b>AI Agent supervisor 🤖 for the ML/AI lifecycle.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/contrastoai/cartai?style=flat-square&labelColor=343b41"/></td>
+      <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/contrastoai/cartai?style=flat-square&labelColor=343b41"/></td>
+      <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
+    </tr>
+  </tbody>
+</table>
+
 </div>  
 
 </div>
@@ -39,13 +53,13 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!--<tr>
       <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>GenTest4AI - 🐦<i>GenAI synthetic scenario testing for ML models and Agentic workflows</i></b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
       <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
+    <!--  <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
       <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-    </tr>
+    <!--</tr>-->
     <tr>
       <td><a href="https://github.com/CarlosVecina/easy_bookmarks"><b> EasyBookmarks - <i>Newsletters & Podcasts from your centralized bookmarks</i></b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/easy_bookmarks?style=flat-square&labelColor=343b41"/></td>
