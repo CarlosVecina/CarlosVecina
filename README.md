@@ -12,13 +12,13 @@
     
   Senior Data Scientist & MLOps
   
-  🟢 AI Compliance @ <a href="https://www.contrastoai.com">ContrastoAI</a>
+  AI @ EC
         
   <br>
 
  <nobr> 
    
- <nobr> 💻 Building:
+ <nobr> 💻 Prev. building:
 
  <table>
   <tbody>
@@ -39,40 +39,3 @@
 <br>
 
 <br>
-
-<!--https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md?plain=1-->
-<h3>Open side-projects</h3>
- <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <!--<td><b>📚 Forks</b></td>-->
-      <td><b>🛎 Issues</b></td>
-      <!--<td><b>📬 Pull requests</b></td>-->
-    </tr>
-  </thead>
-  <tbody>
-    <!--<tr>
-      <td><a href="https://github.com/CarlosVecina/ai-api-testing"><b>GenTest4AI - 🐦<i>GenAI synthetic scenario testing for ML models and Agentic workflows</i></b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-    <!--  <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/ai-api-testing?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-    <!--</tr>-->
-    <tr>
-      <td><a href="https://github.com/CarlosVecina/easy_bookmarks"><b> EasyBookmarks - <i>Newsletters & Podcasts from your centralized bookmarks</i></b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/easy_bookmarks?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/easy_bookmarks?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CarlosVecina/Dystopic_Investment_AIgents"><b> AI Fund - <i>Dystopic investments 📈 managed by AI agents 🤖</i></b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/carlosvecina/Dystopic_Investment_AIgents?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/carlosvecina/Dystopic_Investment_AIgents?style=flat-square&labelColor=343b41"/></td>
-      <!--<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>-->
-    </tr>
-  </tbody>
-</table>
